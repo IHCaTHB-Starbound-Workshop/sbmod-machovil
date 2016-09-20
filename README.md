@@ -1,4 +1,4 @@
-# sbmod-vilavgli
+# sbmod-machovil
 
 Code licensed under GPLv3, file included.
 
