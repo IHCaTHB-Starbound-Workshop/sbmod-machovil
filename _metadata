@@ -1,13 +1,14 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "[h1]For all the villager people out there.[/h1]
+  "description" : "^#5aa9d6;For all the villager people out there.^reset;
+
 Villagers can now spawn without a shirt or pants. Cuz reasons.
 
-[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-Find the server version on [url=https://github.com/IsaacHart/sbmod-machovil/releases]git.[/url]
-[url=http://steamcommunity.com/workshop/filedetails/discussion/758357403/343785574522760858/]Request thread for this mod.[/url]",
+For more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "Macho Villagers",
+  "includes" : [],
   "link" : "community.playstarbound.com/threads/124193/",
   "name" : "MACHOVIL.IHC",
+  "requires" : []
   "version" : "0.9"
 }
